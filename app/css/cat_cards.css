@@ -1,0 +1,362 @@
+.card .back_white {
+	content:url('../media/github-back-white.png') ;
+}
+.card .back_gold {
+	content:url('../media/github-back-gold.png');
+}
+.card .back_red {
+	content:url('../media/github-back-red.png');
+}
+.card .back_blue {
+	content:url('../media/github-back-blue.png');
+}
+.card [class*='back_']{
+  width: 100%;
+  height: 100%;
+  background-color: none;
+}
+.card [class*='cat_']{
+  width: 100%;
+  height: 100%;
+//  background-color: #ffffff;
+}
+
+.card .cat_1 {
+	content:url('../media/Mardigrastocat.png');
+}
+.card .cat_2 {
+	content:url('../media/Professortocat_v2.png');
+}
+.card .cat_3 {
+	content:url('../media/Robotocat.png');
+}
+.card .cat_4 {
+	content:url('../media/adventure-cat.png');
+}
+.card .cat_5 {
+	content:url('../media/agendacat.png');
+}
+.card .cat_6 {
+	content:url('../media/andycat.jpg');
+}
+.card .cat_7 {
+	content:url('../media/baracktocat.jpg');
+}
+.card .cat_8 {
+	content:url('../media/bear-cavalry.png');
+}
+.card .cat_9 {
+	content:url('../media/benevocats.png');
+}
+.card .cat_10 {
+	content:url('../media/bouncercat.png');
+}
+.card .cat_11 {
+	content:url('../media/carlostocat.gif');
+}
+.card .cat_12 {
+	content:url('../media/chellocat.jpg');
+}
+.card .cat_13 {
+	content:url('../media/cherryontop-o-cat.png');
+}
+.card .cat_14 {
+	content:url('../media/class-act.png');
+}
+.card .cat_15 {
+	content:url('../media/cloud.jpg');
+}
+.card .cat_16 {
+	content:url('../media/codercat.jpg');
+}
+.card .cat_17 {
+	content:url('../media/collabocats.jpg');
+}
+.card .cat_18 {
+	content:url('../media/constructocat2.jpg');
+}
+.card .cat_19 {
+	content:url('../media/daftpunktocat-guy.gif');
+}
+.card .cat_20 {
+	content:url('../media/daftpunktocat-thomas.gif');
+}
+.card .cat_21 {
+	content:url('../media/deckfailcat.png');
+}
+.card .cat_22 {
+	content:url('../media/defunktocat.png');
+}
+.card .cat_23 {
+	content:url('../media/doctocat-brown.jpg');
+}
+.card .cat_24 {
+	content:url('../media/dodgetocat.jpg');
+}
+.card .cat_25 {
+	content:url('../media/dodgetocat_v2.png');
+}
+.card .cat_26 {
+	content:url('../media/dojocat.jpg');
+}
+.card .cat_27 {
+	content:url('../media/dolla-dolla-bill-yall.jpg');
+}
+.card .cat_28 {
+	content:url('../media/droctocat.png');
+}
+.card .cat_29 {
+	content:url('../media/droidtocat.png');
+}
+.card .cat_30 {
+	content:url('../media/drunktocat.jpg');
+}
+.card .cat_31 {
+	content:url('../media/drupalcat.jpg');
+}
+.card .cat_32 {
+	content:url('../media/dunetocat.png');
+}
+.card .cat_33 {
+	content:url('../media/electrocat.png');
+}
+.card .cat_34 {
+	content:url('../media/father_timeout.jpg');
+}
+.card .cat_35 {
+	content:url('../media/femalecodertocat.png');
+}
+.card .cat_36 {
+	content:url('../media/forktocat.jpg');
+}
+.card .cat_37 {
+	content:url('../media/founding-father.jpg');
+}
+.card .cat_38 {
+	content:url('../media/foundingfather_v2.png');
+}
+.card .cat_39 {
+	content:url('../media/front-end-conftocat.png');
+}
+.card .cat_40 {
+	content:url('../media/gangnamtocat.png');
+}
+.card .cat_41 {
+	content:url('../media/goretocat.png');
+}
+.card .cat_42 {
+	content:url('../media/grim-repo.jpg');
+}
+.card .cat_43 {
+	content:url('../media/grinchtocat.gif');
+}
+.card .cat_44 {
+	content:url('../media/heisencat.png');
+}
+.card .cat_45 {
+	content:url('../media/herme-t-crabb.png');
+}
+.card .cat_46 {
+	content:url('../media/hipster-partycat.jpg');
+}
+.card .cat_47 {
+	content:url('../media/homercat.png');
+}
+.card .cat_48 {
+	content:url('../media/hubot.jpg');
+}
+.card .cat_49 {
+	content:url('../media/inspectocat.jpg');
+}
+.card .cat_50 {
+	content:url('../media/ironcat.jpg');
+}
+.card .cat_51 {
+	content:url('../media/jean-luc-picat.jpg');
+}
+.card .cat_52 {
+	content:url('../media/jenktocat.jpg');
+}
+.card .cat_53 {
+	content:url('../media/kimonotocat.png');
+}
+.card .cat_54 {
+	content:url('../media/labtocat.png');
+}
+.card .cat_55 {
+	content:url('../media/linktocat.jpg');
+}
+.card .cat_56 {
+	content:url('../media/maxtocat.gif');
+}
+.card .cat_57 {
+	content:url('../media/megacat-2.png');
+}
+.card .cat_58 {
+	content:url('../media/megacat.jpg');
+}
+.card .cat_59 {
+	content:url('../media/minion.png');
+}
+.card .cat_60 {
+	content:url('../media/momtocat.png');
+}
+.card .cat_61 {
+	content:url('../media/monroe.jpg');
+}
+.card .cat_62 {
+	content:url('../media/motherhubbertocat.png');
+}
+.card .cat_63 {
+	content:url('../media/mummytocat.gif');
+}
+.card .cat_64 {
+	content:url('../media/murakamicat.png');
+}
+.card .cat_65 {
+	content:url('../media/notocat.jpg');
+}
+.card .cat_66 {
+	content:url('../media/nyantocat.gif');
+}
+.card .cat_67 {
+	content:url('../media/octdrey-catburn.jpg');
+}
+.card .cat_68 {
+	content:url('../media/octobiwan.jpg');
+}
+.card .cat_69 {
+	content:url('../media/octocat-de-los-muertos.jpg');
+}
+.card .cat_70 {
+	content:url('../media/octoclark-kentocat.jpg');
+}
+.card .cat_71 {
+	content:url('../media/octofez.png');
+}
+.card .cat_72 {
+	content:url('../media/octoliberty.png');
+}
+.card .cat_73 {
+	content:url('../media/octonaut.jpg');
+}
+.card .cat_74 {
+	content:url('../media/octotron.jpg');
+}
+.card .cat_75 {
+	content:url('../media/okal-eltocat.jpg');
+}
+.card .cat_76 {
+	content:url('../media/oktobercat.png');
+}
+.card .cat_77 {
+	content:url('../media/orderedlistocat.png');
+}
+.card .cat_78 {
+	content:url('../media/original.png');
+}
+.card .cat_79 {
+	content:url('../media/pacman-ghosts.jpg');
+}
+.card .cat_80 {
+	content:url('../media/plumber.jpg');
+}
+.card .cat_81 {
+	content:url('../media/poptocat.png');
+}
+.card .cat_82 {
+	content:url('../media/poptocat_v2.png');
+}
+.card .cat_83 {
+	content:url('../media/puppeteer.png');
+}
+.card .cat_84 {
+	content:url('../media/pusheencat.png');
+}
+.card .cat_85 {
+	content:url('../media/pythocat.png');
+}
+.card .cat_86 {
+	content:url('../media/red-polo.png');
+}
+.card .cat_87 {
+	content:url('../media/repo.png');
+}
+.card .cat_88 {
+	content:url('../media/riddlocat.png');
+}
+.card .cat_89 {
+	content:url('../media/saint-nicktocat.jpg');
+}
+.card .cat_90 {
+	content:url('../media/scarletteocat.jpg');
+}
+.card .cat_91 {
+	content:url('../media/scottocat.jpg');
+}
+.card .cat_92 {
+	content:url('../media/setuptocat.jpg');
+}
+.card .cat_93 {
+	content:url('../media/shoptocat.png');
+}
+.card .cat_94 {
+	content:url('../media/skitchtocat.png');
+}
+.card .cat_95 {
+	content:url('../media/snowoctocat.png');
+}
+.card .cat_96 {
+	content:url('../media/socialite.jpg');
+}
+.card .cat_97 {
+	content:url('../media/spectrocat.png');
+}
+.card .cat_98 {
+	content:url('../media/spidertocat.png');
+}
+.card .cat_99 {
+	content:url('../media/spocktocat.png');
+}
+.card .cat_100 {
+	content:url('../media/steroidtocat.png');
+}
+.card .cat_101 {
+	content:url('../media/stormtroopocat.png');
+}
+.card .cat_102 {
+	content:url('../media/strongbadtocat.png');
+}
+.card .cat_103 {
+	content:url('../media/supportcat.png');
+}
+.card .cat_104 {
+	content:url('../media/swagtocat.png');
+}
+.card .cat_105 {
+	content:url('../media/thanktocat.png');
+}
+.card .cat_106 {
+	content:url('../media/total-eclipse-of-the-octocat.jpg');
+}
+.card .cat_107 {
+	content:url('../media/trekkie.png');
+}
+.card .cat_108 {
+	content:url('../media/twenty-percent-cooler-octocat.png');
+}
+.card .cat_109 {
+	content:url('../media/visionary.jpg');
+}
+.card .cat_110 {
+	content:url('../media/waldocat.png');
+}
+.card .cat_111 {
+	content:url('../media/wilson.jpg');
+}
+.card .cat_112 {
+	content:url('../media/xtocat.jpg');
+}
+.card .cat_113 {
+	content:url('../media/yaktocat.png');
+}
